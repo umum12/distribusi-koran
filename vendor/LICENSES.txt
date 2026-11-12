@@ -1,1 +1,4 @@
+Library pihak ketiga (disimpan lokal agar aplikasi tetap berfungsi offline)
 
+pdf-lib 1.17.1 - MIT License - https://github.com/Hopding/pdf-lib
+JSZip 3.10.1   - MIT License (dual MIT/GPLv3) - https://github.com/Stuk/jszip
